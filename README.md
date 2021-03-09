@@ -1,8 +1,11 @@
+![boomkin](https://user-images.githubusercontent.com/80350628/110519401-91773a00-810d-11eb-8de4-20814d908934.png)
+
+
 # Boomkin
 BoomK-Boomkin
 
 A PVE Boomkin Rotation that supports every client language
-you can purchase through https://shoppy.gg/@Boomk
+you can purchase through https://shoppy.gg/@Boomk Lifetime or Monthly
 and join my discord https://discord.gg/aVkyUmk76Y
 
 The rotation comes with well designed features and highlights.
